@@ -1,0 +1,6 @@
+{
+  "type":"3",
+  "name":"apple",
+  "price": 1.23,
+  "operation": "add"
+}
